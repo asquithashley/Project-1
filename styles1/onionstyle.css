@@ -1,0 +1,38 @@
+
+
+h1 {
+	color: #1D661A;
+}
+
+h1, h2{
+	font-family: Georgia; 
+}
+
+h1, h2{
+	text-align: center;
+}
+
+p{ 
+	line-height: 19px;
+}
+
+#events{
+	/* Comments not shown */
+}
+
+#text{
+	text-transform: uppercase;
+}
+
+
+#linkable
+	/* remove underline*/
+	a:link {
+    text-decoration: none;
+}
+
+#linkable
+	/* underline appear*/
+	a:hover {
+		text-decoration: underline;
+	}
