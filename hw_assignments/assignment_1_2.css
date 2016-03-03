@@ -1,0 +1,25 @@
+#format{
+	width: auto;
+	height: auto;
+	text-align: center;
+	background-color: #70dbdb;
+	padding: 10px;
+
+}
+
+.background-color{
+	background-color: #bfbfbf;
+	text-align: left;
+}
+
+.text-font{
+	font-family: "Arial, Helvetica, sans-serif";
+	font-size: 35px;
+
+}
+
+.link-format{
+	font-family: "Helvetica, Geneva, sans-serif";
+	text-align: right;
+	font-size:  15px;
+}

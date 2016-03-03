@@ -1,0 +1,40 @@
+#wrapper{
+	text-align: center;
+	padding: 10px;
+	background-color: aqua;
+	color: grey;
+	font-family: verbana;
+}
+
+
+.float_left{
+	float:left;
+	width: 300px;
+	height: 100%;
+	margin-left:50px;
+	/*background-color: yellow;*/
+	padding-right: 10px;
+}
+
+.float_center{
+	float:left;
+	width: 300px;
+	height: 100%;
+	margin-left:50px;
+	/*background-color: grey;*/
+	padding: 10px;
+}
+
+.float_right{
+	float: left;
+	width: 300px;
+	height: 100%;
+	margin-left:50px;
+	/*background-color: teal;*/
+	padding: 10px;
+}
+
+
+p{
+	font-size: 20px;
+}

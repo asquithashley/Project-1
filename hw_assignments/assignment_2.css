@@ -1,0 +1,22 @@
+#format{
+	width: auto;
+	height: auto;
+	text-align: center;
+	background-color: blue
+
+}
+
+.background-color{
+	background-color: grey;
+}
+
+.text-font{
+	font-family: "Arial, Helvetica, sans-serif";
+	font-size: 50px;
+}
+
+.link-format{
+	font-family: "Verdana, Geneva, sans-serif";
+	text-transform: none;
+	color: green;
+}
